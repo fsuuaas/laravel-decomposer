@@ -1,8 +1,8 @@
 <?php
 
-namespace Lubusin\Decomposer\Controllers;
+namespace Fsuuaas\Decomposer\Controllers;
 
-use Lubusin\Decomposer\Decomposer;
+use Fsuuaas\Decomposer\Decomposer;
 use Illuminate\Routing\Controller;
 
 class DecomposerController extends Controller
