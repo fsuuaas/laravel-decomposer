@@ -1,5 +1,5 @@
 {
-    "name": "lubusin/laravel-decomposer",
+    "name": "fsuuaas/laravel-decomposer",
     "description": "A Laravel package to decompose your installed packages, their dependencies, your app & server environment",
     "license": "MIT",
     "authors": [
@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Lubusin\\Decomposer\\": "src/"
+            "Fsuuaas\\Decomposer\\": "src/"
         }
     },
     "require": {
@@ -24,7 +24,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Lubusin\\Decomposer\\DecomposerServiceProvider"
+                "Fsuuaas\\Decomposer\\DecomposerServiceProvider"
             ]
         }
     }
