@@ -1,6 +1,6 @@
 <?php
 
-namespace Lubusin\Decomposer;
+namespace Fsuuaas\Decomposer;
 
 use Illuminate\Support\ServiceProvider;
 
